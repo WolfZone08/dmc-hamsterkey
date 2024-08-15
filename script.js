@@ -230,7 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     sourceCode.addEventListener('click', () => {
-        window.open('https://github.com/ShafiqSadat/HamsterKeyGenWeb', '_blank');
+        window.open('https://github.com/WolfZone08', '_blank');
     });
 
     const generateClientId = () => {
